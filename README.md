@@ -98,7 +98,7 @@ Here if the second occurance of happy is removed, then the context is lost and i
 
 
 ### 2.6. Loss And Accuracy Plots:
-![image](https://user-images.githubusercontent.com/36926868/170749434-ed13680d-a004-437f-9cf5-2fcafd4fdaca.png)
+![image](https://user-images.githubusercontent.com/36926868/170760398-59bc743c-8e80-4475-a702-a35a7a024c46.png)
 ![image](https://user-images.githubusercontent.com/36926868/170749697-d3a3b850-d264-4d8f-bf96-deeaeeac4174.png)
 
 
